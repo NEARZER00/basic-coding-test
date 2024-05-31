@@ -5,5 +5,9 @@
 	</head>
 	<body>	
 		<h1 style="font-size: 24px; color: #3d59bf;">This is Heading 1</h1>	
+        h1 {
+            font-size: 24px;
+            color: #3d59bf;
+        }
 	</body>
 </html>
