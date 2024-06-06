@@ -8,7 +8,7 @@ body {
 	height: 100vh;
 }
 
-h1 {
+.border{
 	border-style: solid;
 	border-width: 3px;
 	border-color: #FA8072;
@@ -17,6 +17,9 @@ h1 {
 	margin: auto;
 	border-width: 10px;
 	border-radius: 10px;
+}
+
+h1 {
 	font-size: 50px;
 	color: #000000;
 	color: black;
