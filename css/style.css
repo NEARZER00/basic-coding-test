@@ -5,8 +5,7 @@ body {
 	background-position: center;
 	background-attachemnt: fixed;
 	background-size: cover;
-	width: 600px;
-	height: 600px;
+	height: 100vh;
 }
 
 h1 {
