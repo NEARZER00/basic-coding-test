@@ -19,7 +19,7 @@ h1 {
 	color: black;
     	text-align: center;	
 	font-family: 'Open Sans', sans-serif;
-	width: fit;
+	width: fit-content;
 }
 
 h2 {	
