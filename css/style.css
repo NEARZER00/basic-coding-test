@@ -30,8 +30,13 @@ h1 {
 	text-align: center;
 }
 
+.links li a {
+	color: white;
+	text-decoration: none;
+}
+
 .border{
-	background-color: #FA8072;
+	background-color: #09eb27fb;
 	border-radius: 10px;
 	padding: 10px;
 }
