@@ -34,5 +34,8 @@ h1 {
 	padding-left: 0;
 	list-style: none;
 	background: #FA8072;
+	padding: 10px;
+	border-radius: 10px;
+	text-align: center;
 }
 
