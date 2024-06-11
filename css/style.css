@@ -448,3 +448,19 @@ form {
     background-color: #19cdec;
 }
 
+@media only screen and (max-width: 900px) {
+    .container {
+        padding: 0 10px 15px;
+    }
+}
+
+@media only screen and (max-width: 1080px) {
+    
+}
+
+@media only screen and (max-width: 425px) {
+    .familia-list li{
+        width: 100%;
+    }
+}
+
