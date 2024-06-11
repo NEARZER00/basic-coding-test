@@ -381,7 +381,7 @@ p {
 
 
 #tb-form {
-    background-image: linear-gradient(to bottom right, #602fd4, #7c248a);
+    background-image: linear-gradient(to bottom right, #7ff07f, #e63797);
     padding: 15px 0;
 }
 #tb-form .container {
@@ -402,7 +402,7 @@ p {
     border-collapse: collapse;
 }
 .first-table table th {
-    background-color: #b367db;
+    background-color: #19cdec;
 }
 .tables table th, .tables table td {
     border: solid 1px #19334a;
@@ -437,7 +437,7 @@ form {
 }
 .form button {
     width: 100%;
-    background-color: #53418c;
+    background-color: #19cdec;
     color: #fff;
     padding: 10px;
     border: none;
@@ -445,22 +445,6 @@ form {
     margin-top: 20px;
 }
 .form button:hover {
-    background-color: #382b63;
-}
-
-@media only screen and (max-width: 900px) {
-    .container {
-        padding: 0 10px 15px;
-    }
-}
-
-@media only screen and (max-width: 768px) {
-    
-}
-
-@media only screen and (max-width: 425px) {
-    .familia-list li{
-        width: 100%;
-    }
+    background-color: #19cdec;
 }
 
