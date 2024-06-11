@@ -425,13 +425,13 @@ form {
 .form input, .form select {
     width: 100%;
     display: block;
-    background-color: #ada9ba;
+    background-color: #e7b2b2;
     border: none;
     padding: 10px;
 }
 .form textarea {
     width: 100%;
-    background-color: #ada9ba;
+    background-color: #e7b2b2;
     border: none;
     padding: 10px;
 }
