@@ -448,9 +448,9 @@ form {
     background-color: #19cdec;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
     .container {
-        padding: 0 10px 15px;
+        padding: 0 10px 20px;
     }
 }
 
@@ -458,9 +458,9 @@ form {
     
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 500px) {
     .familia-list li{
-        width: 100%;
+        width: 150%;
     }
 }
 
