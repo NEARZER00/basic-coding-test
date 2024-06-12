@@ -384,13 +384,11 @@ p {
     background-image: linear-gradient(to bottom right, #7ff07f, #e63797);
     background-size: cover;
     background-repeat: no-repeat;
-	background-attachemnt: fixed;
     background-position: center;
+	background-attachemnt: fixed;
     width: auto;
     padding-bottom: 1030px;
     padding-right: 41px;
-
-
 }
 
 #tb-form .container {
