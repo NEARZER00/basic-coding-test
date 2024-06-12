@@ -382,8 +382,17 @@ p {
 
 #tb-form {
     background-image: linear-gradient(to bottom right, #7ff07f, #e63797);
-    padding: 15px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+	background-attachemnt: fixed;
+    background-position: center;
+    width: auto;
+    padding-bottom: 1030px;
+    padding-right: 41px;
+
+
 }
+
 #tb-form .container {
     background-color: #fff;
     border-radius: 20px;
@@ -424,7 +433,6 @@ form {
 }
 .form input, .form select {
     width: 100%;
-    display: block;
     background-color: #e7b2b2;
     border: none;
     padding: 10px;
@@ -447,5 +455,3 @@ form {
 .form button:hover {
     background-color: #19cdec;
 }
-
-
