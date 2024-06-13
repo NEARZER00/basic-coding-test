@@ -429,20 +429,30 @@ form {
     display: block;
     margin-top: 10px;
 }
-.form input, .form select {
-    width: 100%;
+.form input { 
+    width: 95%;
+    display: block;
+    background-color: #e7b2b2;
+    border: none;
+    padding: 10px;
+}
+
+.form select {
+    width: 98%;
+    display: block;
     background-color: #e7b2b2;
     border: none;
     padding: 10px;
 }
 .form textarea {
-    width: 100%;
+    width: 95%;
+    display: block;
     background-color: #e7b2b2;
     border: none;
     padding: 10px;
 }
 .form button {
-    width: 100%;
+    width: 98%;
     background-color: #19cdec;
     color: #fff;
     padding: 10px;
@@ -453,3 +463,4 @@ form {
 .form button:hover {
     background-color: #19cdec;
 }
+
