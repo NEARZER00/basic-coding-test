@@ -3,8 +3,9 @@ body {
 	background-image: url(iimage-background.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-attachemnt: fixed;
-	background-size: cover;
+  	background-attachment: fixed;
+    	background-size: cover;
+    	margin: 0 auto;
 }
 
 h1 {
