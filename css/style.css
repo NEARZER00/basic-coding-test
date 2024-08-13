@@ -6,6 +6,7 @@ body {
 	background-attachemnt: fixed;
 	background-size: cover;
 	height: 100vh;
+	margin: 0 auto;
 }
 
 h1 {
